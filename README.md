@@ -232,22 +232,6 @@ Estado: ✅ Funcional
 - Reducción de requests repetidos
 - Mejora en la velocidad de respuesta
 
-## 📈 Mejoras Futuras
-
-### **Funcionalidades Planificadas:**
-- [ ] Búsqueda por múltiples tipos
-- [ ] Comparador de Pokémon
-- [ ] Favoritos y historial
-- [ ] Modo oscuro/claro
-- [ ] Exportar datos a CSV/JSON
-- [ ] Gráficos de estadísticas
-
-### **Optimizaciones Técnicas:**
-- [ ] Service Worker para cache offline
-- [ ] Lazy loading de imágenes
-- [ ] Virtual scrolling para listas largas
-- [ ] Tests unitarios con Jest
-
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Para contribuir:

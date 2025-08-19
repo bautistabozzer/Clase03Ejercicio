@@ -266,12 +266,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **Bautista Bozzer** - [GitHub](https://github.com/bautistabozzer)
 
-## 🙏 Agradecimientos
-
-- **PokeAPI** por proporcionar datos gratuitos de Pokémon
-- **Profesores de UADE** por la guía en el desarrollo de APIs
-- **Comunidad Pokémon** por la inspiración
-
 ---
 
 ## 📊 Estadísticas del Proyecto
